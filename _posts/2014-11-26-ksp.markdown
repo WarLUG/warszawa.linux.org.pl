@@ -1,0 +1,64 @@
+---
+layout:     post
+speaker:    "WarLUG Community"
+title:      "Key Signing Party"
+date:       2014-11-26
+---
+
+_Drodzy WarLUGowicze_,
+
+26 listopada o godzinie 18 organizujemy pierwszą w historii WarLUGa
+Imprezę Podpisywania Kluczy (PGP Key Signing Party).
+Zapraszamy wszystkich członków grupy!
+
+A teraz słów kilka o przygotowaniu się do wydarzenia.
+Podpisywanie kluczy, zwłaszcza większej liczby osób wymaga
+pewnej dozy planowania. Bazować będziemy na doświadczeniach
+Lena Sassamana, Wernera Kocha i Phila Zimmermanna, którzy
+opracowali algorytm pozwalający sprawnie przeprowadzić taki proces.
+Podobna procedura odbywa się też na konferencji FOSDEM.
+
+### Przed spotkaniem
+
+1. Obowiązkowe jest dostarczenie klucza publicznego do koordynatora
+imprezy. W naszym wypadku użyjemy serwera kluczy.
+Klucz GPG można wysłać w następujący sposób:\\
+`gpg --keyserver warszawa.linux.org.pl --send-key [keyid]`
+1. Po upływie terminu składania kluczy wygenerowana zostanie
+ostateczna lista zawierająca wszystkie nadesłane
+klucze wraz z ich odciskami (ang. _fingerprint_). 
+1. Każdy z uczestników powinien pobrać [listę kluczy](http://warszawa.linux.org.pl/ksp),
+wygenerować dla niej sumę SHA256 i RIPEMD160, a następnie wpisać ją
+w odpowiednich polach na liście.
+1. Każdy z uczestników powinien wydrukować pobraną
+listę oraz sprawdzić poprawność swojego klucza.
+
+### W trakcie spotkania
+
+1. Każdy powinien mieć listę wydrukowaną przez siebie.
+Uczestnik jest pewny, że _TYLKO I WYŁĄCZNIE_ jego lista jest prawdziwa,
+tzn. suma kontrolna zgadza się z tą podaną przez organizatora.
+1. Do wiadomości uczestników podana zostanie suma kontrolna listy kluczy.
+1. Następnie przeprowadzona zostanie procedura sprawdzenia tożsamości osoby,
+która oznaczona jest jako posiadacz klucza (pamiętaj o zabraniu
+ze sobą dokumentu tożsamości!).
+1. Uczestnicy ustawią się w rzędzie wg kolejności kluczy na liście.
+Następnie rząd ten zostanie „złamany” tak, aby pierwszy uczestnik
+znalazł się naprzeciwko ostatniego.
+1. Po wzajemnym sprawdzeniu tożsamości osób stojących naprzeciwko siebie
+każdy przesuwa się o jedno miejsce w zadanym kierunku;
+następuje sprawdzenie tożsamości kolejnych osób.
+
+### Po spotkaniu
+
+Po spotkaniu każdy uczestnik powinien podpisać klucze osób, których tożsamość zweryfikował.
+
+_Miejsce i czas:_\\
+Wydział Matematyki, Informatyki i Mechaniki UW\\
+ul. Banacha 2 (wejście od ul. Pasteura)\\
+Sala 4070\\
+26 listopada, godzina 18:00
+
+_Ostateczny termin nadsyłania kluczy: 24 listopada 2014, godzina 23.59._
+
+

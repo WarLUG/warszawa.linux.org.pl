@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {% if page.categories contains 'spotkania' %}
+    <ul class="meeting-info">
+      {% if page.meeting_date %}
+        <li>Data: <em>{{ page.meeting_date | date: "%Y-%m-%d" }}</em></li>
+      {% else %}
+        <li>Data: <em>{{ page.date | date: "%Y-%m-%d" }}</em></li>
+      {% endif %}
+
+      {% if page.speaker %}
+        <li>Prelegent: <em>{{ page.speaker | join: ', ' }}</em></li>
+      {% endif %}
+
+      {% if page.level %}
+        <li>Poziom: <em>{{ page.level }}</em></li>
+      {% endif %}
+
+      {% if page.materials %}
+        <li><em><a href="{{ page.materials }}">Materiały</a></em></li>
+      {% endif %}
+
+    </ul>
+    {% endif %}
+    {{ content }}
+  </article>
+
+</div>

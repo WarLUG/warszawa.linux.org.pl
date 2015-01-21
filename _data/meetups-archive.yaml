@@ -1,0 +1,333 @@
+- date: 1999-10-27
+  speaker: "Sebastian Zagrodzki i Jarek ,,GWIDo'' Sygitowicz"
+  title: "jak dołączyć drugi monitor, mapować klawisze, zestawić połączenie po kabelku między dwoma komputerami, dodatkowo co to jest linuxnews.pl"
+  materials: http://warszawa.linux.org.pl/materialy/1999-10-27
+
+- date: 1999-11-03
+  speaker: "Emil Stępniewski"
+  title: "jak zabezpieczyć komputer przed włamaniami (podstawy)"
+  materials: http://warszawa.linux.org.pl/materialy/1999-11-03
+
+- date: 1999-11-10
+  speaker: "Sebastian Zagrodzki"
+  title: "tworzenie pakietów RPM"
+  materials: http://warszawa.linux.org.pl/materialy/1999-11-10
+
+- date: 1999-11-17
+  speaker: "Jan Dubiec i Łukasz Trąbiński"
+  title: "protokół PPP oraz UUCP"
+  materials: http://warszawa.linux.org.pl/materialy/1999-11-17
+
+- date: 1999-11-24
+  speaker: "Emil Stępniewski"
+  title: "zabezpieczanie systemu c.d. - sieć"
+  materials: http://warszawa.linux.org.pl/materialy/1999-11-24
+
+- date: 1999-12-01
+  speaker: "Emil Stępniewski"
+  title: "LILO i pochodne"
+  materials: http://warszawa.linux.org.pl/materialy/1999-12-01
+
+- date: 1999-12-08
+  speaker: "Sebastian Zagrodzki"
+  title: "co to jest CVS i jak tego używać"
+  materials: http://warszawa.linux.org.pl/materialy/1999-12-08
+
+- date: 1999-12-15
+  speaker: "Grzegorz Paluch"
+  title: "minidystrybucje"
+  materials: http://warszawa.linux.org.pl/materialy/1999-12-15
+
+- date: 2000-01-05
+  speaker: "Michał Kuratczyk"
+  title: "awk - jak programować, jak wykorzystać"
+  materials: http://warszawa.linux.org.pl/materialy/2000-01-05
+
+- date: 2000-01-12
+  speaker: "Łukasz Trąbiński"
+  title: "jak wykorzystać stare komputery i zrobić z nich X-terminale"
+  materials: http://warszawa.linux.org.pl/materialy/2000-01-12
+
+- date: 2000-01-19
+  speaker: "Sebastian Zagrodzki"
+  title: "programowanie w shellu"
+  materials: http://warszawa.linux.org.pl/materialy/2000-01-19
+
+- date: 2000-01-26
+  title: "Spotkanie bez wyraźnego tematu przewodniego :>"
+
+- date: 2000-02-16
+  speaker: "Łukasz Dobrek"
+  title: "Podstawy składu tekstu w TeXu/LaTeXu"
+
+- date: 2000-02-23
+  title: "Filesystemy w Linuksie - ext2fs, ext3fs, reiserfs..."
+
+- date: 2000-03-01
+  speaker: "Paweł Moszumański + Jacek Kijewski + Emil Stępniewski"
+  title: "Jak Linuks radzi sobie w hotelu Sobieski"
+
+- date: 2000-03-08
+  speaker: "Jarek Sygitowicz i Marek Rogoziński"
+  title: "Wprowadzenie do PHP, różnice między PHP3/4"
+
+- date: 2000-07-07
+  title: "Zdjęcia ze spotkania PLD w Warszawie"
+  materials: http://warszawa.linux.org.pl/materialy/2000-07-07-2000-07-09
+
+- date: 2002-12-12
+  title: "Konfiguracja tuneli/VPN"
+  materials: http://warszawa.linux.org.pl/materialy/2002-12-12
+
+- date: 2003-02-13
+  speaker: "Maciej Broniarz"
+  title: "Instalacja i konfiguracja Linuksa na starym i słabym sprzęcie"
+  materials: http://warszawa.linux.org.pl/materialy/2003-02-13
+
+- date: 2003-02-20
+  speaker: "Hubert ,,depesz'' Lubaczewski"
+  title: "Zabezpieczanie serwera baz danych PostgreSQL"
+  materials: http://warszawa.linux.org.pl/materialy/2003-02-20
+
+- date: 2003-02-27
+  speaker: "Jacek Fiok"
+  title: "Linux dla początkujących"
+  materials: http://warszawa.linux.org.pl/materialy/2003-02-27
+
+- date: 2003-03-06
+  speaker: "Krzysio ,,chewbacca'' Leszczyński"
+  title: "Emacs"
+
+- date: 2003-03-13
+  speaker: "Janusz ,,alex'' Urbanowicz"
+  title: "Partyzancki Podpis Elektroniczny"
+  materials: http://warszawa.linux.org.pl/materialy/2003-03-13
+
+- date: 2003-03-20
+  speaker: "Leszek Krupiński"
+  title: "Programowanie w shellu"
+  materials: http://warszawa.linux.org.pl/materialy/2003-03-20
+
+- date: 2003-04-03
+  speaker: "Krzysio Leszczyński"
+  title: "TeX dla blondynek"
+  materials: http://warszawa.linux.org.pl/materialy/2003-04-03
+
+- date: 2003-04-10
+  speaker: "Jacek Fiok i Maciej Broniarz"
+  title: "Linux w pytaniach i odpowiedziach"
+  materials: http://warszawa.linux.org.pl/materialy/2003-04-10
+
+- date: 2003-04-17
+  speaker: "Michał ,,lcamtuf'' Zalewski"
+  title: "Zdalna identyfikacja systemów operacyjnych"
+  materials: http://warszawa.linux.org.pl/materialy/2003-04-17
+
+- date: 2003-04-24
+  speaker: "Sebastian Zagrodzki"
+  title: "Sieciowy system backupów"
+  materials: http://warszawa.linux.org.pl/materialy/2003-04-24
+
+- date: 2003-05-01
+  title: "spotkanie plenerowe z grillem w roli głównej :)"
+
+- date: 2003-05-08
+  speaker: "Krzyś Leszczyński"
+  title: "Przygotowywanie prezentacji"
+  materials: http://warszawa.linux.org.pl/materialy/2003-05-08
+
+- date: 2003-05-22
+  title: "bomba :)"
+  materials: http://warszawa.linux.org.pl/materialy/2003-05-22
+
+- date: 2003-05-29
+  title: "pokaz filmu The Code: Linux"
+
+- date: 2003-06-05
+  speaker: "Paweł Kot"
+  title: "Gnokii"
+  materials: http://warszawa.linux.org.pl/materialy/2003-06-05
+
+- date: 2003-06-12
+  speaker: "Hubert ,,depesz'' Lubaczewski"
+  title: "Perl dla początkujących"
+  materials: http://warszawa.linux.org.pl/materialy/2003-06-12
+
+- date: 2003-10-23
+  speaker: "Michał Zalewski"
+  title: "Mechanizmy generacji liczb pseudolosowych na potrzeby kryptografii w Linuxie i innych systemach open-source oraz ich implikacje dla bezpieczeństwa"
+
+- date: 2003-10-30
+  speaker: "Lukasz Pawełczyk"
+  title: "PLD live"
+
+- date: 2003-11-06
+  speaker: "Leszek Krupiński"
+  title: "Wprowadzenie do PHP"
+
+- date: 2003-11-20
+  speaker: "Bartłomiej Żołnierkiewicz"
+  title: "Kernel 2.6."
+
+- date: 2003-11-27
+  speaker: "Adam Gołębiowski"
+  title: "Dystrybucja PLD"
+
+- date: 2003-12-04
+  speaker: "Janina Sajka"
+  title: "Linux Accessibility Today and Tomorrow"
+
+- date: 2003-12-11
+  speaker: "Marcin Doliński"
+  title: "Bezdyskowe terminale sieciowe"
+
+- date: 2004-01-15
+  speaker: "Karol Kreński"
+  title: "Prezentacja programu GIMP"
+  materials: http://warszawa.linux.org.pl/materialy/2004-01-15
+
+- date: 2004-01-22
+  speaker: "Adam Buraczewski"
+  title: "Optymalizacja i zaawansowana konfiguracja bazy PostgreSQL"
+  materials: http://warszawa.linux.org.pl/materialy/2004-01-22
+
+- date: 2004-02-19
+  speaker: "Pawel Sawicki"
+  title: "Wspolpraca programów EXIM, PostgreSQL oraz Courier-IMAP usprawniająca obieg poczty"
+  materials: http://warszawa.linux.org.pl/materialy/2004-02-19
+
+- date: 2004-02-26
+  speaker: "Paweł Kołodziej"
+  title: "Amatorska Sieć Komputerowa"
+  materials: http://warszawa.linux.org.pl/materialy/2004-02-26
+
+- date: 2004-03-18
+  speaker: "Hubert Lubaczewski"
+  title: "Optymalizacja działania aplikacji korzystających z bazy danych PostgreSQL"
+  materials: http://warszawa.linux.org.pl/materialy/2004-03-18
+
+- date: 2004-04-22
+  speaker: "Paweł Ośmiałowski"
+  title: "Video4Linux: Wprowadzenie do przetwarzania ruchomego obrazu pod Linuksem"
+  materials: http://warszawa.linux.org.pl/materialy/2004-04-22
+
+- date: 2004-05-06
+  speaker: "Przemysław Frasunek, Paweł Pisarczyk"
+  title: "Zastosowanie Linuksa przez radioamatorów + Intel Itanium i Linux"
+  materials: http://warszawa.linux.org.pl/materialy/2004-05-06
+
+- date: 2004-05-27
+  speaker: "Krzysztof Leszczyński, Adam Mańczuk"
+  title: "Spiskowa Teoria Emacsów"
+  materials: http://warszawa.linux.org.pl/materialy/2004-05-27
+
+- date: 2004-06-17
+  speaker: "Paweł Ośmiałowski"
+  title: "Scheme Tk - tworzenie GUI w języku funkcyjnym, czyli jak pogodzić wodę z ogniem"
+  materials: http://warszawa.linux.org.pl/materialy/2004-06-17
+
+- date: 2004-12-09
+  speaker: "Krzysztof Leszczyński"
+  title: "GNU Arch"
+  materials: http://warszawa.linux.org.pl/materialy/2004-12-09
+
+- date: 2004-12-16
+  speaker: "Sebastian Zagrodzki"
+  title: "RRDtool"
+  materials: http://warszawa.linux.org.pl/materialy/2004-12-16
+
+- date: 2005-01-20
+  speaker: "Adam Mańczuk vel beret"
+  title: "Chałtura z ambicjami"
+  materials: http://warszawa.linux.org.pl/materialy/2005-01-20/
+
+- date: 2005-02-10
+  speaker: "Władysław Majewski"
+  title: "WAI a polskie przepisy, w tym ustawa o informacji publicznej"
+
+- date: 2005-03-03
+  speaker: "Stanisław Małolepszy"
+  title: "Wykorzystanie CSS do tworzenia stron internetowych"
+  materials: http://warszawa.linux.org.pl/materialy/2005-03-03/
+
+- date: 2005-03-10
+  speaker: "Karol ,,mimooh'' Kreński"
+  title: "Inscape - program do tworzenia grafiki wektorowej"
+
+- date: 2005-12-21
+  speaker: "Jan Rękorajski"
+  title: "Linux VServer - wirtualizacja przez separację"
+  materials: http://warszawa.linux.org.pl/materialy/2005-12-21/
+
+- date: 2006-09-19
+  speaker: "Marcin Bis (Akademia Linuksa)"
+  title: "Walcz ze spamem."
+  materials: http://warszawa.linux.org.pl/materialy/2006-09-19/
+
+- date: 2006-10-25
+  speaker: "Łukasz Bromirski"
+  title: "Routing dynamiczny w systemach Open Source"
+  materials: http://warszawa.linux.org.pl/materialy/2006-10-25/
+
+- date: 2006-11-08
+  speaker: "Sebastian Zagrodzki"
+  title: "OpenWrt na służbie u geeka"
+  materials: http://warszawa.linux.org.pl/materialy/2006-11-08/
+
+- date: 2007-11-29
+  speaker: "Marek Pułczyński"
+  title: "Programowanie w języku PYTHON - część I"
+
+- date: 2007-12-13
+  speaker: "Marcin Swiderski"
+  title: "Programowanie w języku PYTHON - część II - podstawy"
+
+- date: 2008-01-10
+  speaker: "Jarek Zgoda"
+  title: "PyGTK - wprowadzenie do programowania GUI"
+  materials: http://warszawa.linux.org.pl/materialy/2008-01-10/
+
+- date: 2009-01-14
+  speaker: "Marek Marczykowski"
+  title: "LDAP jako centralna baza użytkowników dla wielu usług"
+  materials: http://warszawa.linux.org.pl/materialy/2009-01-14/
+
+- date: 2009-01-21
+  speaker: "Robert Socha"
+  title: "RAID i LVM. Zarządzanie dyskami"
+  materials: http://warszawa.linux.org.pl/materialy/2009-01-21/
+
+- date: 2009-02-25
+  speaker: "Zbigniew Łukasiak, Piotr Roszatycki"
+  title: "Nowoczesny Perl"
+  materials: http://warszawa.linux.org.pl/materialy/2009-02-25/
+
+- date: 2009-04-01
+  speaker: "Piotr Lewandowski"
+  title: "Bezpieczeństwo w IPv6"
+
+- date: 2010-06-16
+  speaker: "Marek Marczykowski"
+  title: "Wirtualizacja: XEN"
+  materials: http://warszawa.linux.org.pl/materialy/2010-06-18/
+
+- date: 2010-07-19
+  speaker: "Zbigniew Łukasiak, Tadeusz Sośnierz"
+  title: "PLUG wakacyjnie: Perl Workshop"
+
+- date: 2011-02-23
+  speaker: ["Zbigniew Łukasiak", "Adam Warski", "Tomasz Szymański", "Grzegorz Jakacki"]
+  title: "Dependency injection - panel dyskusyjny"
+  materials: http://warszawa.linux.org.pl/materialy/2011-02-23
+
+- date: 2011-05-11
+  speaker: "Amir Taaki"
+  title: "Bitcoin"
+
+- date: 2014-11-12
+  speaker: "Kamil Domański"
+  title: "Apache Mesos - The datacenter operating system"
+
+- date: 2014-11-26
+  title: "Key Signing Party"
+  materials: http://warszawa.linux.org.pl/ksp/2014/

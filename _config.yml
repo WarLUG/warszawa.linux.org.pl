@@ -1,0 +1,11 @@
+# Site settings
+title: WarLUG
+email: spotkania@warszawa.linux.org.pl
+description: "Warszawska Grupa Użytkowników Linuksa"
+url: "http://warszawa.linux.org.pl"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+exclude: ['fabfile.py*', '.ht*']

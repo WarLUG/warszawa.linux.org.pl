@@ -1,0 +1,19 @@
+---
+layout:     post
+speaker:    "Amir Taaki"
+title:      "Bitcoin"
+date:       2011-05-11
+level:      "średniozaawansowany"
+categories: spotkania
+---
+
+Bitcoin jest cyfrową walutą stworzoną w 2009 przez Satoshiego Nakamoto. 
+Nazwa odnosi się także do używającego jej otwartoźródłowego 
+oprogramowania, które zaprojektował oraz sieci peer-to-peer, którą 
+formuje. Więcej informacji na http://www.bitcoin.org/.
+
+Uwaga: Wykład w języku angielskim :) 
+
+* * *
+
+*Niestety spotkanie zostało odwołane :(*

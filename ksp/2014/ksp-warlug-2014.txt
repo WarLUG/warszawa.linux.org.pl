@@ -1,0 +1,125 @@
+
+
+          W A R L U G  2 0 1 4  K E Y S I G N I N G   E V E N T
+
+                            List of Participants
+
+
+Here's what you have to do with this file:
+
+(0) Verify that the key-id and the fingerprint of your
+    key(s) on this list match with your expectation.
+
+(1) Print this UTF-8 encoded file to paper.
+    Use e.g. paps(1) from http://paps.sf.net/.
+
+(2) Compute this file's SHA256 and RIPEMD160 checksums.
+
+      gpg --print-md SHA256 ksp-warlug-2014.txt
+      gpg --print-md RIPEMD160 ksp-warlug-2014.txt
+
+(3) Fill in the hash values on the printout.
+
+(4) Bring the printout, a pen, and proof of identity to
+    the keysigning event. (and be on time!).
+
+
+RIPEMD160 Checksum: _ _ _ _  _ _ _ _  _ _ _ _  _ _ _ _  _ _ _ _
+
+                    _ _ _ _  _ _ _ _  _ _ _ _  _ _ _ _  _ _ _ _             [ ]
+
+
+SHA256 Checksum:    _ _ _ _ _ _ _ _  _ _ _ _ _ _ _ _  _ _ _ _ _ _ _ _
+
+                    _ _ _ _ _ _ _ _  _ _ _ _ _ _ _ _  _ _ _ _ _ _ _ _
+
+                    _ _ _ _ _ _ _ _  _ _ _ _ _ _ _ _                        [ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+001  [ ] Fingerprint OK        [ ] ID OK
+pub   4096R/48AD1541 2014-01-26
+      Key fingerprint = 5BEA 0D72 A27F ABB6 2F23  FF2A 2EB8 C2A2 48AD 1541
+uid Łukasz Szczęsny <luk@wybcz.pl>
+uid Łukasz Szczęsny <luk@mimuw.edu.pl>
+Signatures:[00075]   Keys signed:[000074]   MSD:[4.4123]   Rank:[001672]
+--------------------------------------------------------------------------------
+
+002  [ ] Fingerprint OK        [ ] ID OK
+pub   1024D/EB315583 2000-09-26
+      Key fingerprint = A819 6D2E D5EB D9E0 D2D9  7AF6 2FAF 4A11 EB31 5583
+uid Antoni Grzymala (antoszka) <antoni@antoszka.pl>
+uid Antoni Grzymala <antoni@grzymala.info>
+Signatures:[00018]   Keys signed:[000023]   MSD:[5.1621]   Rank:[013339]
+--------------------------------------------------------------------------------
+
+003  [ ] Fingerprint OK        [ ] ID OK
+pub   2048R/DBAB60F2 2012-09-08 [expires: 2017-09-07]
+      Key fingerprint = 99A7 D000 D012 7BD7 F497  BC51 C277 D526 DBAB 60F2
+uid Marcin 'sirmacik' Karpezo <marcin@karpezo.pl>
+Signatures:[00003]   Keys signed:[000008]   MSD:[5.1880]   Rank:[013762]
+--------------------------------------------------------------------------------
+
+004  [ ] Fingerprint OK        [ ] ID OK
+pub   2048R/213A2CA0 2014-11-23 [expires: 2015-11-23]
+      Key fingerprint = CDD0 44B6 FC14 227F D905  3984 9A44 57B9 213A 2CA0
+uid Tomasz Wojciechowski (created for http://www.meetup.com/WarLUG/events/218761725/) <wojciechowski@openmailbox.org>
+Signatures:[00000]   Keys signed:[000000]   MSD:[0.0000]   Rank:[000000]
+--------------------------------------------------------------------------------
+
+005  [ ] Fingerprint OK        [ ] ID OK
+pub   2048R/2F1ED55C 2014-11-24
+      Key fingerprint = E791 6F31 8A91 EE16 A654  2C9F 8082 A5CD 2F1E D55C
+uid Wojciech Zając (orkan) <wojtek@reu.pl>
+Signatures:[00000]   Keys signed:[000000]   MSD:[0.0000]   Rank:[000000]
+--------------------------------------------------------------------------------
+
+006  [ ] Fingerprint OK        [ ] ID OK
+pub   2048R/DF690749 2010-11-05 [expires: 2015-11-05]
+      Key fingerprint = 0C04 FC47 DF00 510D 611A  2079 DC5F 11ED DF69 0749
+uid Jarosław Górny <jaroslaw.gorny@gmail.com>
+uid Jaroslav Nahorny <jaroslav@fsck.cz>
+uid Jaroslav Nahorny <jaroslav@hackerspace.pl>
+Signatures:[00005]   Keys signed:[000006]   MSD:[5.9363]   Rank:[029591]
+--------------------------------------------------------------------------------
+
+007  [ ] Fingerprint OK        [ ] ID OK
+pub   4096R/0B48350B 2014-11-25 [expires: 2024-11-22]
+      Key fingerprint = 94AF 222F 85A5 0934 6171  7B22 3C9B 59A6 0B48 350B
+uid Tomasz Klicki <tomasz@klicki.pl>
+Signatures:[00000]   Keys signed:[000000]   MSD:[0.0000]   Rank:[000000]
+--------------------------------------------------------------------------------
+
+008  [ ] Fingerprint OK        [ ] ID OK
+pub   4096R/0F523DB4 2014-11-25
+      Key fingerprint = 5ACC 84B2 3698 0C47 CD68  A650 6292 6A95 0F52 3DB4
+uid Kamil Wilczek <kmwil@mimuw.edu.pl>
+Signatures:[00000]   Keys signed:[000000]   MSD:[0.0000]   Rank:[000000]
+--------------------------------------------------------------------------------
+
