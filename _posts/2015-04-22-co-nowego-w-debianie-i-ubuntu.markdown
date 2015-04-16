@@ -12,8 +12,6 @@ opowiemy o nowościach w zbliżających się nowych wydaniach Debian GNU/Linux i
 Ubuntu. Będziemy również kontynuować temat PGP - Wojciech Zając opowie o
 tym jak bezpiecznie korzystać z poczty elektronicznej.
 
-Serdecznie zapraszamy!
-
 _Miejsce i czas:_\\
 Wydział Matematyki, Informatyki i Mechaniki UW\\
 ul. Banacha 2 (wejście od ul. Pasteura)\\
