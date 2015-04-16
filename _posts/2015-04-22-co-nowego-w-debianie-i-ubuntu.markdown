@@ -8,8 +8,8 @@ date:       2015-04-22
 _Drodzy WarLUGowicze_,
 
 zapraszamy na kolejne spotkanie 22 kwietnia o godzinie 18:00. Na spotkaniu
-opowiemy o nowościach w zbliżających się nowych wydaniach Debian GNU/Linux i
-Ubuntu. Będziemy również kontynuować temat PGP - Wojciech Zając opowie o
+opowiemy o nowościach w zbliżających się wydaniach Debian GNU/Linux i Ubuntu.
+Będziemy również kontynuować temat PGP - Wojciech Zając opowie o
 tym jak bezpiecznie korzystać z poczty elektronicznej.
 
 _Miejsce i czas:_\\
