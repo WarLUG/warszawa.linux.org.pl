@@ -1,7 +1,7 @@
 ---
 layout:     post
 speaker:    "Jan Inowolski, Łukasz Szczęsny"
-title:      'Let's encrypt i zaległe nowości w Debianie i Ubuntu'
+title:      "Let's encrypt i zaległe nowości w Debianie i Ubuntu"
 date:       2015-05-27
 ---
 
@@ -16,5 +16,5 @@ Serdecznie zapraszamy!
 
 _Miejsce i czas_\\
 Co nas kręci co nas podnieca cafe\\
-Grójecka 128 pawilon 7 i 8\\
+ul. Grójecka 128, pawilon 7 i 8\\
 27 maja, godzina 18:15
