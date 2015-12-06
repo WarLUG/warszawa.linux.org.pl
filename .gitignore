@@ -1,3 +1,6 @@
 _site/
 .sass-cache/
 *.pyc
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/

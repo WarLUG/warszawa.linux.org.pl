@@ -8,4 +8,4 @@ url: "http://warszawa.linux.org.pl"
 markdown: kramdown
 permalink: pretty
 
-exclude: ['fabfile.py*', '.ht*']
+exclude: ['fabfile.py*', '.ht*', 'vendor']
