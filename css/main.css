@@ -9,7 +9,7 @@
 html, body { height: 100%; }
 
 body {
-	/* 
+	/*
 	 * Na Androidzie mamy Droid Sans, całkiem fajny font.
 	 * Do tego można dodać jakiś Linuxowy i Microsoftowy.
 	 */
@@ -416,5 +416,9 @@ a:visited { color: #205caa; }
 }
 
 .event div {
-    display: inline;	
+    display: inline;
+}
 
+.archive ul {
+    margin-left: 30px;
+}

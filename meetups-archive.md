@@ -4,7 +4,7 @@ title: Archiwum spotkań
 permalink: /archiwum-spotkan/
 ---
 
-<div class="home">
+<div class="home archive">
   <header class="post-header">
     <h1>Archiwum spotkań</h1>
   </header>
