@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Spotkania
+permalink: /spotkania/
+permalink: index.html
 ---
 
 <div class="home">
