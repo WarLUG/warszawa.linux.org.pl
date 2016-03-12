@@ -14,7 +14,7 @@ permalink: /archiwum-spotkan/
       {% if spotkanie.materials %}<a href="{{ spotkanie.materials }}">{% endif %}
       <span itemprop="startDate" content="{{ spotkanie.date }}">
         {{ spotkanie.date }}
-      </span> - 
+      </span> -
       {% if spotkanie.speaker %}
         {% for speaker in spotkanie.speaker %}
           <span itemprop="performer" itemscope="" itemtype="http://schema.org/Person">
@@ -22,7 +22,7 @@ permalink: /archiwum-spotkan/
               {{ speaker }}
             </span>{% unless forloop.last %}, {% endunless %}
           </span>
-        {% endfor %} - 
+        {% endfor %} -
       {% endif %}
       <span itemprop="name">{{ spotkanie.title }}</span>
       {% if spotkanie.materials %}</a>{% endif %}
