@@ -27,4 +27,4 @@ _Miejsce i czas_\\
 Wydział Matematyki, Informatyki i Mechaniki UW\\
 ul. Banacha 2 (wejście od ul. Pasteura)\\
 Sala 4050\\
-czwartek, 7 kwietnia, godzina 18:00
+czwartek, 7 kwietnia, godzina 18:15
