@@ -19,7 +19,7 @@ def deploy(settings='staging'):
         abort('Aborting!')
     _jekyll('build --future')
     rsync_project(local_dir='_site/', remote_dir=env.site_location,
-                  delete=True)
+                  delete=True, exclude=['materialy'])
 
 
 def preview():
