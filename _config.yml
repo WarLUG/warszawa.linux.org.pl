@@ -5,4 +5,4 @@ description: >
 url: "http://warszawa.linux.org.pl"
 permalink: pretty
 markdown: kramdown
-exclude: ['vendor', 'Gemfile*', 'Makefile']
+exclude: ['vendor', 'Gemfile*', 'Makefile', 'README.md']
