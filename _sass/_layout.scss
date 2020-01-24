@@ -200,6 +200,9 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    background: url('/img/calendar.svg') no-repeat center left / contain;
+    padding-left: 20px;
+    padding-top: 2px;
 }
 
 .post-link {
