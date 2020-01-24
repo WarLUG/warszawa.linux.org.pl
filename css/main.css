@@ -1,6 +1,16 @@
 /* Base */
 /* ----------------------------------------------------------*/
 
+@font-face {
+  font-family: "Havana-Regular";
+  src: url("/assets/fonts/Havana-Regular.woff") format('woff');
+}
+
+@font-face {
+  font-family: "Apropal-Bold";
+  src: url("/assets/fonts/Apropal-Bold.woff") format('woff');
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -9,11 +19,11 @@
 html, body { height: 100%; }
 
 body {
-	/*
-	 * Na Androidzie mamy Droid Sans, całkiem fajny font.
-	 * Do tego można dodać jakiś Linuxowy i Microsoftowy.
-	 */
-  font-family: 'Open Sans', 'Droid Sans', 'Trebuchet MS', 'Nimbus Sans L', sans-serif;
+  /*
+   * Na Androidzie mamy Droid Sans, całkiem fajny font.
+   * Do tego można dodać jakiś Linuxowy i Microsoftowy.
+   */
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
   line-height: 1.5;
   font-weight: 300;
@@ -67,7 +77,20 @@ a:visited { color: #205caa; }
 }
 
 .site-title img {
-	margin-top: 10px;
+  margin-top: 10px;
+}
+
+.site-title-logo-1 {
+   font-family: Havana-Regular;
+   font-weight: 500;
+   font-size: calc(0.65em + 1vw);
+   /*font-size: 0.95em;*/
+   margin-right: -0.2em;
+}
+
+.site-title-logo-2 {
+   font-size: calc(0.65em + 1vw);
+   font-family: Apropal-Bold;
 }
 
 .site-nav {

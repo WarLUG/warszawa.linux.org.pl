@@ -8,7 +8,7 @@
         <img style="width: 90px;" src="{{ "/assets/tux.svg" | prepend: site.baseurl }}">
       </div>
       <div style=" display: table-cell; vertical-align: middle; padding: 14px 0 0 10px">
-        <span style="font-family: 'Warnes', cursive; font-weight: 400; font-size: 0.75em;">War</span>&nbsp;<span style="font-family: 'Oxygen Mono', ;font-weight: 400;">LUG</span>
+        <span class="site-title-logo-1">War</span>&nbsp;<span class="site-title-logo-2">LUG</span>
       </div>
 
     </a>
@@ -27,7 +27,7 @@
       </a>
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title != nil and page.url != '/' %}  
+          {% if page.title != nil and page.url != '/' %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
