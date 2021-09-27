@@ -4,5 +4,17 @@ description: >
   Warszawska Grupa Użytkowników Linuksa
 url: "http://warszawa.linux.org.pl"
 permalink: pretty
+
 markdown: kramdown
-exclude: ['vendor', 'Gemfile*', 'Makefile', 'README.md']
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .jekyll-cache/
+  - .sass-cache/
+  - Gemfile*
+  - gemfiles/
+  - Makefile 
+  - README.md
+  - vendor
