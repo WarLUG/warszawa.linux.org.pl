@@ -1,4 +1,4 @@
-WARLUG_WEBSERVER := warlug@warszawa.linux.org.pl
+WARLUG_WEBSERVER := root@warszawa.linux.org.pl
 WARLUG_WEBSERVER_DEST_DIR := /srv/website
 
 .PHONY: install-deps
